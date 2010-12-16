@@ -2,4 +2,6 @@
 <resources>
     <string name="hello">Hello World, TimeMachineHome!</string>
     <string name="app_name">TimeMachine</string>
+    <string name="select_activity">Select Activity</string>
+    <string name="create_activity">Create Activity</string>
 </resources>
